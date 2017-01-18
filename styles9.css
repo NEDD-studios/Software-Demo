@@ -1,0 +1,64 @@
+body {
+	background: #00ffff;
+	margin: 0;
+}
+
+header {
+	background: #333;
+	padding: 1px 15px 0 5px;
+}
+
+.button {
+	background: #333;
+	border-color: #333;
+	color: white;
+	padding: 20px;
+	margin: 5px;
+}
+
+.button2 {
+	background: black;
+	border-color: black;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+
+.button3 {
+	background: black;
+	border-color: black;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+	float: ;
+}
+
+.button4 {
+	background: black;
+	border-color: black;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+
+.button5 {
+	background: #333;
+	border-color: #333;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+
+.button6 {
+	background: #333;
+	border-color: #333;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+
+footer {
+	margin: 500;
+	float: left;
+	background: #333fff;
+}
